@@ -12,4 +12,18 @@ function thirdProblem(word) {
     }
     return count
 }
+
+Con lo que, al tener como entrada el string "www.google.com", obtenemos:
+
+``` bash
+{
+    .: 2,
+    c: 1,
+    e: 1,
+    g: 2,
+    l: 1,
+    m: 1,
+    o: 3,
+    w: 3
+}
 ```

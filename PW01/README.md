@@ -16,15 +16,15 @@ function thirdProblem(word) {
 
 Con lo que, al tener como entrada el string "www.google.com", introduciendo la función **console.log(thirdProblem("www.google.com"))** obtenemos como output:
 
-``` bash
+``` JSON
 {
-    .: 2,
-    c: 1,
-    e: 1,
-    g: 2,
-    l: 1,
-    m: 1,
-    o: 3,
-    w: 3
+    ".": 2,
+    "c": 1,
+    "e": 1,
+    "g": 2,
+    "l": 1,
+    "m": 1,
+    "o": 3,
+    "w": 3
 }
 ```

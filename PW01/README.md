@@ -14,7 +14,7 @@ function thirdProblem(word) {
 }
 ```
 
-Con lo que, al tener como entrada el string "www.google.com", obtenemos:
+Con lo que, al tener como entrada el string "www.google.com", introduciendo la función **console.log(thirdProblem("www.google.com"))** obtenemos como output:
 
 ``` bash
 {

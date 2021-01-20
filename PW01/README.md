@@ -12,6 +12,7 @@ function thirdProblem(word) {
     }
     return count
 }
+```
 
 Con lo que, al tener como entrada el string "www.google.com", obtenemos:
 

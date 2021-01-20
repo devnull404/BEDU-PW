@@ -2,16 +2,20 @@
 
 ### Problema 1 
 Código:
+
 ![alt text](https://github.com/devnull404/BEDU-PW/blob/main/PW01/assets/p1.png)
 
 Output:
+
 ![alt text](https://github.com/devnull404/BEDU-PW/blob/main/PW01/assets/r1.png)
 
 ### Problema 2
 Código:
+
 ![alt text](https://github.com/devnull404/BEDU-PW/blob/main/PW01/assets/p2.png)
 
 Output:
+
 ![alt text](https://github.com/devnull404/BEDU-PW/blob/main/PW01/assets/r2.png)
 
 

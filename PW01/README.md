@@ -1,5 +1,19 @@
 ## Primer Postwork
 
+### Problema 1 
+Código:
+![alt text]()
+
+Output:
+![alt text]()
+
+### Problema 2
+Código:
+![alt text]()
+
+Output:
+![alt text]()
+
 
 ### Problema 3
 Código:

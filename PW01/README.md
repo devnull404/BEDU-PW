@@ -1,5 +1,13 @@
 ## Primer Postwork
 
+## EQUIPO #2
+Francisco Mnendoza
+Victor Martinez
+Sebastián García
+Juan Carlos Andrés
+
+
+
 ### Problema 1 
 Código:
 
